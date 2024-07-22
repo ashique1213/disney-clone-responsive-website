@@ -1,0 +1,52 @@
+.logo{
+    width: 95px;
+    height: 40px;
+    margin-right:40px; 
+}
+
+/* -----------slide--------------------------- */
+.slideimage{
+    transition: transform 0.6s ease-in-out;
+}
+.slideimage:hover{
+    transform: scale(1.04);
+}
+
+/* ----------------------cards------------------------ */
+.shopimagehover{
+    transition: transform 0.6s ease-in-out;
+}
+.shopimagehover:hover{
+    transform: scale(1.05);
+}
+
+/* ---------------feature---------------------------------- */
+.maincontainer{
+    background-color:  rgb(241, 241, 241);
+}
+.maincontainercard{
+    background-color: rgb(241,241, 241);
+}
+.featureimagehover{
+    transition: transform 0.6s ease-in-out;
+}
+.featureimagehover:hover{
+    transform: scale(1.03);
+}
+
+/* -----------------------footer-------------------------- */
+
+.footercontent a{
+    font-size: 13px;
+}
+.footerimg{
+    width: 75px;
+    height: 30px;
+}
+.footerlink{
+    font-size: 13px;
+}
+.footerpara p{
+    font-size: 10px;
+}
+
